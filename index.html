@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="AchieverOps — Intelligence Architecture for Health & Biotech. Public brochure showcase." />
+  <title>AchieverOps — Public Showcase</title>
+  <style>
+    :root {
+      --snow: #F2FAFA;
+      --ink: #0D1B38;
+      --muted: #7A9396;
+      --accent: #122060;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      min-height: 100dvh;
+      background: linear-gradient(165deg, #F2FAFA 0%, #DAEBED 55%, #EDF4F5 100%);
+      color: var(--ink);
+      font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      display: grid;
+      place-items: center;
+      padding: 2rem;
+    }
+    main {
+      max-width: 36rem;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      gap: 1.25rem;
+    }
+    h1 {
+      font-size: clamp(1.75rem, 4vw, 2.25rem);
+      letter-spacing: -0.02em;
+    }
+    .tagline {
+      color: var(--accent);
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    p { color: var(--ink); opacity: 0.8; line-height: 1.55; }
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      justify-content: center;
+      margin-top: 0.5rem;
+    }
+    a.cta {
+      display: inline-block;
+      padding: 0.7rem 1.15rem;
+      border: 1px solid var(--ink);
+      color: var(--ink);
+      text-decoration: none;
+      font-size: 0.85rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      transition: background 0.15s ease, color 0.15s ease;
+    }
+    a.cta:hover {
+      background: var(--ink);
+      color: var(--snow);
+    }
+    a.cta.solid {
+      background: var(--ink);
+      color: var(--snow);
+    }
+    a.cta.solid:hover {
+      background: var(--accent);
+      border-color: var(--accent);
+    }
+    .note {
+      margin-top: 1rem;
+      font-size: 0.75rem;
+      color: var(--muted);
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>AchieverOps</h1>
+    <p class="tagline">Intelligence Architecture for Health &amp; Biotech</p>
+    <p>Institutional-Grade Health R&amp;D. Zero Gatekeeping.</p>
+    <p>Public brochure showcase — product IP remains private.</p>
+    <div class="links">
+      <a class="cta solid" href="https://achieverops.com">achieverops.com</a>
+      <a class="cta" href="https://achieverops-full.web.app">Storefront preview</a>
+      <a class="cta" href="https://github.com/AchieverOps-cpu/website-showcase">GitHub README</a>
+    </div>
+    <p class="note">Marketing only · Zero-PHI company posture · No product source here</p>
+  </main>
+</body>
+</html>
