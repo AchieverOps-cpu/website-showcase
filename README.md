@@ -41,7 +41,10 @@ High-level **domains** (marketing constellation — not product workbenches):
 | Surface | URL |
 |---------|-----|
 | Brand — Coming Soon | [https://achieverops.com](https://achieverops.com) |
-| Storefront preview | [https://achieverops-full.web.app](https://achieverops-full.web.app) |
+
+The full marketing storefront is **not** linked here (it is not a public demo). Product and research tooling are not publicly viewable.
+
+**Collaborators:** request access at [consultant@achieverops.com](mailto:consultant@achieverops.com). Optional collaboration entry: [https://achieverops-collab.web.app/collaborate/](https://achieverops-collab.web.app/collaborate/).
 
 Optional static pointer page in this repo: [`index.html`](./index.html)
 
