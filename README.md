@@ -2,59 +2,60 @@
 
 **Intelligence Architecture for Health & Biotech**
 
-> Institutional-Grade Health R&D. Zero Gatekeeping.
+> Institutional-grade health R&D. Built enough to invite partners. Private enough to protect the craft.
 
-This repository is a **public brochure** for YC / contractor diligence. It proves AchieverOps is building a company and marketing presence. **Proprietary product IP is not included.**
+This repository is a **public brochure** for collaborators, early employees, and short-term contract diligence (Catalant, Y Combinator Work at a Startup, similar). It proves AchieverOps is building. **Proprietary product IP is not included.**
 
 ---
 
 ## Who we are
 
-**AchieverOps** positions institutional-grade health and biotech R&D intelligence as a dual pathway:
+AchieverOps is a **mediator and builder** across health and biotech. Dual pathway at brochure level:
 
-| Pathway | Brochure description |
+| Pathway | Public description |
 |---------|----------------------|
-| **Product / tool** | Self-serve innovation tooling for health & biotech R&D teams (private product — not in this repo) |
-| **Management consulting** | Validate · Build · Alliance · Retainer engagements via intake |
+| **Product** | Research & development tooling for health & biotech teams (private product — not in this repo, not a public demo) |
+| **Consulting** | Validate · Build · Alliance · Retainer engagements |
 
-Company posture: **Zero-PHI** at the company level (no patient data in public marketing or brochure materials). Architecture details stay private.
-
----
-
-## Eight practice domains
-
-High-level **domains** (marketing constellation — not product workbenches):
-
-1. **Clinical Intelligence** — Evidence synthesis, trial landscape, protocol intelligence  
-2. **Discovery Sciences** — Target-to-clearance architecture for R&D teams  
-3. **Genomic Medicine** — Variant interpretation, pharmacogenomics, rare-disease diagnostics  
-4. **Human Performance** — Recovery, longevity, cognitive & sports physiology intelligence  
-5. **Healthcare** — Health-system optimization, diagnostics, care coordination  
-6. **Biotechnology** — Gene editing, cell therapy, protein engineering, synthetic biology  
-7. **MedTech Architecture** — Device feasibility, SaMD, interoperability, post-market maps  
-8. **Regulatory Intelligence** — Multi-jurisdiction strategy, orphan pathways, surveillance  
+Company posture: **Zero-PHI** (no patient data in public marketing). Architecture, studios, and tooling internals stay private.
 
 ---
 
-## Live marketing (safe links only)
+## What we are exploring
+
+Categories only — not a product feature list, not a clone kit:
+
+- Clinical research tooling
+- Personalized product services
+- Health & biotech intelligence architecture
+- Discovery, genomic, MedTech, regulatory, and human-performance **domains** (brochure-level)
+
+The operational testing storefront is invitation-only. The real Lab is not linked here.
+
+---
+
+## Live surfaces (safe links only)
 
 | Surface | URL |
 |---------|-----|
 | Brand — Coming Soon | [https://achieverops.com](https://achieverops.com) |
+| Public briefing | [https://achieverops-collab.web.app](https://achieverops-collab.web.app) |
 
-The full marketing storefront is **not** linked here (it is not a public demo). Product and research tooling are not publicly viewable.
+Do **not** treat GitHub or Coming Soon as a product demo. Testing access is issued after an inquiry.
 
-**Collaborators:** request access at [consultant@achieverops.com](mailto:consultant@achieverops.com). Optional collaboration entry: [https://achieverops-collab.web.app/collaborate/](https://achieverops-collab.web.app/collaborate/).
+**Inquire / collaborate / contracts:** [https://achieverops-collab.web.app/#inquire](https://achieverops-collab.web.app/#inquire) or [consultant@achieverops.com](mailto:consultant@achieverops.com).
 
-Optional static pointer page in this repo: [`index.html`](./index.html)
+Optional static pointer: [`index.html`](./index.html)
 
 ---
 
 ## Founder / contracts
 
-- **Open to:** short-term / fractional contracts  
-- **Not seeking:** full-time employment (FTE)  
-- **Contact:** consultant@achieverops.com  
+- **Building:** active testing and continuous improvement of the operational storefront
+- **Seeking:** collaborators and early employees
+- **Also open to:** short-term / fractional contracts (Catalant, YC Work at a Startup, similar) while pursuing RDIA / KSA entrepreneurial funding pathways
+- **Not seeking:** full-time employment (FTE)
+- **Contact:** consultant@achieverops.com
 
 ---
 
@@ -62,8 +63,8 @@ Optional static pointer page in this repo: [`index.html`](./index.html)
 
 This repository is a **public marketing brochure only**.
 
-- AchieverOps product source, Lab tooling, APIs, schemas, overlays, and commercial vault materials are **private** and are **not** licensed here.  
-- Do not treat this repo as a product demo, research tool, or code portfolio of proprietary systems.  
+- AchieverOps product source, Lab tooling, APIs, schemas, overlays, and commercial vault materials are **private** and are **not** licensed here.
+- Do not treat this repo as a product demo, research tool, or code portfolio of proprietary systems.
 - Private `AchieverOps-cpu` product repositories remain **PRIVATE**.
 
 ---
