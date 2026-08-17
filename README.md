@@ -70,4 +70,4 @@ This repository is a **public marketing brochure only**.
 
 ## License
 
-MIT applies to the **brochure text and static files in this repository only**. AchieverOps proprietary IP remains private and is not licensed under this MIT grant.
+**All rights reserved.** This repository is a public brochure only — no license is granted to copy, modify, redistribute, or reuse its text, layout, or files. AchieverOps proprietary product IP remains private and is not licensed here. See [`LICENSE`](./LICENSE).
