@@ -1,10 +1,10 @@
 # AchieverOps — Public Website Showcase
 
-**Intelligence Architecture for Health & Biotech**
+**Intelligence architecture for health & biotech**
 
-> Institutional-grade health R&D. Built enough to invite partners. Private enough to protect the craft.
+> Evidence does not become a decision by itself. AchieverOps is a mediator and builder for health and biotech teams evaluating a collaboration.
 
-This repository is a **public brochure** for collaborators, early employees, and short-term contract diligence (Catalant, Y Combinator Work at a Startup, similar). It proves AchieverOps is building. **Proprietary product IP is not included.**
+This repository is a **public brochure** for researchers, clinicians, PIs, operators, manufacturers, and investors. It points to the live collaboration briefing. **Proprietary product IP is not included.**
 
 ---
 
@@ -14,8 +14,8 @@ AchieverOps is a **mediator and builder** across health and biotech. Dual pathwa
 
 | Pathway | Public description |
 |---------|----------------------|
-| **Product** | Research & development tooling for health & biotech teams (private product — not in this repo, not a public demo) |
-| **Consulting** | Validate · Build · Alliance · Retainer engagements |
+| **Capability** | Research & development tooling for health & biotech teams (private — not in this repo, not a public demo) |
+| **Advisory** | Validate · Build · Alliance · Retainer engagements |
 
 Company posture: **Zero-PHI** (no patient data in public marketing). Architecture, studios, and tooling internals stay private.
 
@@ -39,23 +39,13 @@ The operational testing storefront is invitation-only. The real Lab is not linke
 | Surface | URL |
 |---------|-----|
 | Brand — Coming Soon | [https://achieverops.com](https://achieverops.com) |
-| Public briefing | [https://achieverops-collab.web.app](https://achieverops-collab.web.app) |
+| Public collaboration briefing | [https://achieverops-collab.web.app](https://achieverops-collab.web.app) |
 
 Do **not** treat GitHub or Coming Soon as a product demo. Testing access is issued after an inquiry.
 
-**Inquire / collaborate / contracts:** [https://achieverops-collab.web.app/#inquire](https://achieverops-collab.web.app/#inquire) or [consultant@achieverops.com](mailto:consultant@achieverops.com).
+**Inquire / collaborate:** [https://achieverops-collab.web.app/#inquire](https://achieverops-collab.web.app/#inquire) or [consultant@achieverops.com](mailto:consultant@achieverops.com).
 
 Optional static pointer: [`index.html`](./index.html)
-
----
-
-## Founder / contracts
-
-- **Building:** active testing and continuous improvement of the operational storefront
-- **Seeking:** collaborators and early employees
-- **Also open to:** short-term / fractional contracts (Catalant, YC Work at a Startup, similar) while pursuing RDIA / KSA entrepreneurial funding pathways
-- **Not seeking:** full-time employment (FTE)
-- **Contact:** consultant@achieverops.com
 
 ---
 
